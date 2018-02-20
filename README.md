@@ -1,2 +1,3 @@
-# jsf_in_tomcat
-Project with JSF 2.2 in Tomcat 9
+# JSF in Tomcat
+
+This project it's example that JSF 2.2 in Tomcat 9
