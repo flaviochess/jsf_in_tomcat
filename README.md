@@ -17,5 +17,5 @@ http://localhost:8080/tomcatjsfcontext/index.zzz
 
 META-INF/context.xml -> context url project
 
-WEB-INF/web.xml -> homepage
+WEB-INF/web.xml -> homepage  
 WEB-INF/web.xml -> url pattern
